@@ -31,7 +31,6 @@ I’m not trying to look perfect here — this is just me **learning in public**
 
 ---
 
-Added profile README
 <!--
 **DCmax1111/DCMax1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
